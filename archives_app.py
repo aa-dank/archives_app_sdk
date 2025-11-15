@@ -2,7 +2,7 @@ import httpx
 from urllib import parse
 import os
 
-APP_URL = r"ppdo-dev-app-1.ucsc.edu"
+APP_URL = r"ppdo-prod-app-1.vm.aws.ucsc.edu"
 APP_USERNAME = ""
 APP_PASSWORD = ""
 
